@@ -1,0 +1,29 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>
+CONFLICT RESOLUTION
+</title>
+<style>
+body
+{
+color: red;
+background-color : yellow;
+font-size: 130%;
+text-align: center;
+}
+p
+{
+color: blue;
+}
+</style>
+<body>
+<h1>GOWTHAM</h1>
+<div><p>HE IS DOING SOMETHING TO SATISFY HIMSELF</p></div>
+<div><p>BUT FACING TOO MANY STRUGGLES</p></div>
+<h2 style="color: black">HARRY POTTER</h2>
+<div><p>HE IS A STUDENT OF HOGWARTS SCHOOL OF WITCHCRAFT AND WIZADRY</p></div>
+<div><p style="color: grey">AND HE IS THE ONE WHO SURVIVED</p></div>
+</body>
+</head>
+</html>
